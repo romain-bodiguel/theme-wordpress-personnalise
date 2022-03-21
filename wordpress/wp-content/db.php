@@ -1,0 +1,1 @@
+/var/www/html/S08/S08-Wordpress-romain-bodiguel/wordpress/wp-content/plugins/query-monitor/wp-content/db.php
